@@ -9,3 +9,5 @@ You may assume that each input would have *exactly* one solution, and you may no
 > return [0, 1].
 
 **tag:** array hash table
+
+Difficulty：**Easy**
