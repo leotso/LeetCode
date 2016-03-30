@@ -8,3 +8,5 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 **Output:** 7 -> 0 -> 8
 
 **tag:** Linked List Math
+
+Difficulty：**Medium**
