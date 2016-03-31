@@ -11,3 +11,5 @@ Given <font color="#c7254e">"bbbbb"</font>, the answer is <font color="#c7254e">
 Given <font color="#c7254e">"pwwkew"</font>, the answer is <font color="#c7254e">"wke"</font>, with the length of 3. Note that the answer must be a **substring**, <font color="#c7254e">"pwke"</font> is a subsequence and not a substring.
 
 **tags:** Hash Table Two Pointers String
+
+Difficulty：**Medium**
