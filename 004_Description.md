@@ -19,3 +19,5 @@ Find the median of the two sorted arrays. The overall run time complexity should
 > The median is (2 + 3)/2 = 2.5
 
 **tags:** Binary Search, Array, Divide and Conquer
+
+Difficulty: **Hard**
