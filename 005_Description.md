@@ -17,3 +17,5 @@ Given a string **s**, find the longest palindromic substring in **s**. You may a
 > **Output:** "bb"
 
 **tags:** String
+
+Difficulty: **Medium**
