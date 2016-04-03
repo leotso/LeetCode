@@ -15,3 +15,5 @@ Write the code that will take a string and make this conversion given a number o
 <font color='#c7254e'>convert("PAYPALISHIRING", 3)</font> should return <font color='#c7254e'>"PAHNAPLSIIGYIR"</font>.
 
 **tags:** String
+
+Difficulty: **Medium**
