@@ -12,7 +12,7 @@ class Solution(object):
         for i in range(len(nums)):
             num = nums[i]
             complement = target - num
-            if complement in dic and dic[complement] != 1:
+            if complement in dic and dic[complement] != i:
                 return [i, dic[complement]]
         return None
 
