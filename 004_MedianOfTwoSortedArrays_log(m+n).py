@@ -25,7 +25,6 @@ class Solution(object):
             return self.getkth(nums1, nums2[j:], k - j)
         else:
             return self.getkth(nums1[i:], nums2, k - i)
-        return 0
 
 
 sln = Solution()
