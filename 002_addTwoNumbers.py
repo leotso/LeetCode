@@ -31,3 +31,25 @@ class Solution(object):
         
         return dummyHead.next
 
+def listToLinkList(l):
+    dummyHead = curr = ListNode(0)
+    for i in l:
+        curr.next = ListNode(i)
+        curr = curr.next
+    return dummyHead.next
+
+def printLinkList(listNode):
+    l = []
+    while True:
+        l.append(listNode.val)
+        if listNode.next == None:
+            break
+        listNode = listNode.next
+    print(l)
+
+
+l1 = [2, 4, 3]
+l2 = [5, 6, 4]
+sln = Solution()
+ln = sln.addTwoNumbers(listToLinkList(l1), listToLinkList(l2))
+printLinkList(ln)
