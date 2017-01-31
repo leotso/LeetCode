@@ -6,10 +6,10 @@ class Solution(object):
         :rtype: List[int]
         """
         dic = {}
-        for i in range(len(nums)):
+        for i in xrange(len(nums)):
             if nums[i] not in dic:
                 dic[nums[i]] = i
-        for i in range(len(nums)):
+        for i in xrange(len(nums)):
             num = nums[i]
             complement = target - num
             if complement in dic and dic[complement] != i:

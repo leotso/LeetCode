@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: List[int]
         """
         dic = {}
-        for i in range(len(nums)):
+        for i in xrange(len(nums)):
             complement = target - nums[i]
             if complement in dic:
                 return [dic[complement], i]

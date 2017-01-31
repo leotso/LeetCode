@@ -8,7 +8,7 @@ class Solution(object):
         ans = 0
         dic = {}
         i = 0
-        for j in range(n):
+        for j in xrange(n):
             if s[j] in dic:
                 i = max(dic[s[j]], i)
             ans = max(ans, j - i + 1)

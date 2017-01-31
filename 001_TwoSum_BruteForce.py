@@ -6,8 +6,8 @@ class Solution(object):
         :rtypr: List[int]
         """
         n = len(nums)
-        for i in range(n):
-            for j in range(i+1, n):
+        for i in xrange(n):
+            for j in xrange(i+1, n):
                 if nums[j] == target - nums[i]:
                     return [i, j]
         return None
