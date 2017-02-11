@@ -17,3 +17,7 @@ class Solution(object):
             '9': 'wxyz'
         }
         return reduce(lambda acc, digit: [x + y for x in acc for y in kvmaps[digit]], digits, [''])
+
+sln = Solution()
+digits = '23'
+print(sln.letterCombinations(digits))
