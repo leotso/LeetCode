@@ -20,3 +20,6 @@ class Solution(object):
             self.dfs(left-1, right, ans, string + "(")
         if right:
             self.dfs(left, right-1, ans, string + ")")
+
+sln = Solution()
+print(sln.generateParenthesis(3))
