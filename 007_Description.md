@@ -18,3 +18,7 @@ Reverse digits of an integer.
 
 <font color='red'>**Note:**</font><br/>
 The input is assumed to be a 32-bit signed integer. Your function should **return 0 when the reversed integer overflows.**
+
+**tags:** Math
+
+Difficulty: **Easy**
