@@ -20,3 +20,5 @@ Implement regular expression matching with support for <font color='red'>'.'</fo
 > isMatch("aab", "c*a*b") → true
 
 **tags:** Dynamic Programming, Backtracking, String
+
+Difficulty: **Hard**
