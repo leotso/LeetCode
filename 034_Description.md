@@ -11,3 +11,5 @@ Given <font color='red'>[5, 7, 7, 8, 8, 10]</font> and target value 8,<br/>
 return <font color='red'>[3, 4]</font>.
 
 **tags:** Binary Search, Array
+
+Difficulty: **Medium**
