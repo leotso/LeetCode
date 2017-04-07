@@ -11,3 +11,5 @@ Here are few examples.<br/>
 <font color='red'>[1,3,5,6]</font>, 0 → 0
 
 **tags:** Array, Binary Search
+
+Difficulty: **Easy**
