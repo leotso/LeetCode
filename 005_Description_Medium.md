@@ -1,8 +1,10 @@
-Description
-===========
+# 5. Longest Palindromic Substring
+Url: <https://leetcode.com/problems/longest-palindromic-substring>
+
+## Description
 Given a string **s**, find the longest palindromic substring in **s**. You may assume that the maximum length of **s** is 1000.
 
-**Example:**
+#### Example:
 
 > **Input:** "babad"
 >
@@ -10,12 +12,12 @@ Given a string **s**, find the longest palindromic substring in **s**. You may a
 >
 > **Note:** "aba" is also a valid answer.
 
-**Example:**
+#### Example:
 
 > **Input:** "cbbd"
 >
 > **Output:** "bb"
 
-**tags:** String
+**Tags:** String
 
-Difficulty: **Medium**
+Difficulty: Medium
