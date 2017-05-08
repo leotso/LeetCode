@@ -1,11 +1,15 @@
-Description
-===========
+# 7. Reverse Integer
+Url: <https://leetcode.com/problems/reverse-integer>
+
+## Description
 
 Reverse digits of an integer.
 
-**Example1:** x = 123, return 321<br/>
+**Example1:** x = 123, return 321
+
 **Example2:** x = -123, return -321
 
+*spoilers*
 > **Have you thought about this?**
 >
 > Here are some good questions to ask before coding. Bonus points for you if you have already thought through this!
@@ -19,6 +23,6 @@ Reverse digits of an integer.
 <font color='red'>**Note:**</font><br/>
 The input is assumed to be a 32-bit signed integer. Your function should **return 0 when the reversed integer overflows.**
 
-**tags:** Math
+**Tags:** Math
 
-Difficulty: **Easy**
+Difficulty: Easy
