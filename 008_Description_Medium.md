@@ -1,5 +1,7 @@
-Description
-===========
+# 8. String to Integer (atoi)
+Url: <https://leetcode.com/problems/string-to-integer-atoi>
+
+## Description
 
 Implement *atoi* to convert a string to an integer.
 
@@ -10,9 +12,8 @@ Implement *atoi* to convert a string to an integer.
 <font color='red'>**Update (2015-02-10):**</font><br/>
 The signature of the <font color='red'>C++</font> function had been updated. If you still see your function signature accepts a <font color='red'>const char *</font> argument, please click the reload button to reset your code definition.
 
-spoilers alert... click to show requirements for atoi.<br/>
-<font color='black'>**Requirements for atoi:**</font>
-
+spoilers alert... click to show requirements for atoi.
+#### <font color='black'>Requirements for atoi:</font>
 The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character, takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value.
 
 The string can contain additional characters after those that form the integral number, which are ignored and have no effect on the behavior of this function.
@@ -22,6 +23,6 @@ If the first sequence of non-whitespace characters in str is not a valid integra
 If no valid conversion could be performed, a zero value is returned. If the correct value is out of the range of representable values, INT_MAX (2147483647) or INT_MIN (-2147483648) is returned.
 
 
-**tags:** Math, String
+**Tags:** Math, String
 
-Difficulty: **Medium**
+Difficulty: Medium
