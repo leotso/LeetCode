@@ -1,9 +1,11 @@
-Description
-===========
+# 9. Palindrome Number
+Url: <https://leetcode.com/problems/palindrome-number>
+
+## Description
 
 Determine whether an integer is a palindrome. Do this without extra space.
 
-**Some hints:**
+#### Some hints:
 
 Could negative integers be palindromes? (ie, -1)
 
@@ -13,6 +15,6 @@ You could also try reversing an integer. However, if you have solved the problem
 
 There is a more generic way of solving this problem.
 
-**tags:** Math
+**Tags:** Math
 
-Difficulty: **Easy**
+Difficulty: Easy
