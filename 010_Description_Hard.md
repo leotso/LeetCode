@@ -1,24 +1,27 @@
-Description
-===========
+# 10. Regular Expression Matching
+Url: <https://leetcode.com/problems/regular-expression-matching>
+
+## Description
 Implement regular expression matching with support for <font color='red'>'.'</font> and <font color='red'>'*'</font>.
 
-> '.' Matches any single character.<br/>
+> '.' Matches any single character.  
 > '*' Matches zero or more of the preceding element.
 >
 > The matching should cover the **entire** input string (not partial).
 >
-> The function prototype should be:<br/>
+> The function prototype should be:  
 > bool isMatch(const char *s, const char *p)
 >
-> Some examples:<br/>
-> isMatch("aa","a") → false<br/>
-> isMatch("aa","aa") → true<br/>
-> isMatch("aaa","aa") → false<br/>
-> isMatch("aa", "a*") → true<br/>
-> isMatch("aa", ".*") → true<br/>
-> isMatch("ab", ".*") → true<br/>
-> isMatch("aab", "c*a*b") → true
+> Some examples:
+>
+>     isMatch("aa","a") → false
+>     isMatch("aa","aa") → true
+>     isMatch("aaa","aa") → false
+>     isMatch("aa", "a*") → true
+>     isMatch("aa", ".*") → true
+>     isMatch("ab", ".*") → true
+>     isMatch("aab", "c*a*b") → true
 
-**tags:** Dynamic Programming, Backtracking, String
+**Tags:** Dynamic Programming, Backtracking, String
 
-Difficulty: **Hard**
+Difficulty: Hard
