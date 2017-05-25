@@ -1,6 +1,7 @@
 # Swap Nodes in Pairs
-Description
------------
+Url: <https://leetcode.com/problems/swap-nodes-in-pairs/>
+
+## Description
 Given a linked list, swap every two adjacent nodes and return its head.
 
 For example,
@@ -10,4 +11,4 @@ Your algorithm should use only constant space. You may not modify the values in 
 
 **Tags:** Linked List
 
-Difficulty: **Medium**
+Difficulty: Medium
