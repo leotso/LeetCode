@@ -1,6 +1,7 @@
-# Remove Duplicates from Sorted Array
-Description
------------
+# 26. Remove Duplicates from Sorted Array
+Url: <https://leetcode.com/problems/remove-duplicates-from-sorted-array/>
+
+## Description
 Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.
 
 Do not allocate extra space for another array, you must do this in place with constant memory.
@@ -12,4 +13,4 @@ Your function should return length = <font color='red'>2</font>, with the first 
 
 **Tags:** Array, Two Pointers
 
-Difficulty: **Easy**
+Difficulty: Easy
