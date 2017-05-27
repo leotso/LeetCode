@@ -1,4 +1,4 @@
-# Merge k Sorted Lists
+# 23. Merge k Sorted Lists
 Url: <https://leetcode.com/problems/merge-k-sorted-lists/>
 
 ## Description

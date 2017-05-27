@@ -1,4 +1,4 @@
-# Generate Parentheses
+# 22. Generate Parentheses
 Url: <https://leetcode.com/problems/generate-parentheses/>
 
 ## Description
