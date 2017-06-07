@@ -1,5 +1,7 @@
-Description
-===========
+# 36. Valid Sudoku
+Url: <https://leetcode.com/problems/valid-sudoku/>
+
+## Description
 Determine if a Sudoku is valid, according to: [Sudoku Puzzles - The Rules](http://sudoku.com.au/TheRules.aspx).
 
 The Sudoku board could be partially filled, where empty cells are filled with the character <font color='red'>'.'</font>.
@@ -7,9 +9,9 @@ The Sudoku board could be partially filled, where empty cells are filled with th
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)<br/>
 A partially filled sudoku which is valid.
 
-**Note:**<br/>
+#### Note:
 A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.
 
-**tags:** Hash Table
+**Tags:** Hash Table
 
-Difficulty: **Medium**
+Difficulty: Medium
